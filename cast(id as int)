@@ -1,0 +1,1 @@
+SELECT * FROM `institute_staff` ORDER BY cast(sl as int) ASC
